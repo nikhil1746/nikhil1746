@@ -1,33 +1,36 @@
 # 👋 Hi, I'm Nikhil
 
-Simplifying complex systems into **clear, usable products**
+Simplifying complex systems into simple usable products.
 
-🚀 Full Stack Engineer building **Finance, AI & UX-driven systems**
-🧠 Focused on scalable architecture, product thinking, and real-world impact
+🚀 Full Stack Engineer building scalable systems across Frontend, Backend & Cloud
 
 ---
 
 ## ⚡ What I Do
 
-* Build **end-to-end systems** (Frontend + Backend + Cloud)
-* Design **data-driven financial products**
-* Apply **AI to improve user decision-making**
+- Build **end-to-end systems** (Frontend + Backend + Cloud)  
+- Design **data-driven financial products**  
+- Actively learning AI and applying it to build decision-focused product features
 
 ---
 
-## 🛠 Tech
+### ⚡ Core Skillset
+[![Core](https://skillicons.dev/icons?i=html,css,js,react,angular,php,laravel,wordpress)](https://skillicons.dev)
 
-**Frontend:** React, Next.js
-**Backend:** Node.js
-**Cloud:** AWS
-**Focus:** Architecture, System Design, Product Thinking
+### ☁️ Infra & Data
+[![Infra](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws,azure,docker,git,graphql,tailwind,bootstrap,postman)](https://skillicons.dev)
 
----
+## 🚀 Currently Building
 
-## 🚀 Key Work
-
-* **Finance Health Checker** → User journey-based wealth analysis
-* **Wealth Intelligence System** → Investment tracking + projections
-* **Knowledge Platform** → Tech, Finance & “How things work”
+* **Finance Health Checker** → User journey-driven wealth analysis
+* **Wealth Intelligence System** → Investment tracking with projections & insights
+* **Knowledge Platform** → Simplifying Tech, Finance & “How things work”
 
 ---
+
+## 📚 Currently Exploring
+
+* **System Design** → Distributed systems & high-scale architecture
+* **Cloud (AWS)** → Scalable, cost-efficient infrastructure
+* **AI in Products** → Building decision-focused features
+
